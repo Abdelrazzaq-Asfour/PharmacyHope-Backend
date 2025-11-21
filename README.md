@@ -10,7 +10,7 @@ Built with **Spring Boot**, **Next.js**, and **MySQL**.
 ## 📑 Table of Contents
 - [Overview](#overview)
 - [Tech Stack](#tech-stack)
-- [Data Model ]
+- Data Model 
 - [Features](#features)
 - [User Stories](#user-stories)
 
