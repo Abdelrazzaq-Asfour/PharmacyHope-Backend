@@ -1,16 +1,11 @@
-# 💊 Pharmacy CRUD System
+# 💊 Pharmacy Hope CRUD System
 
 A full-stack CRUD application for managing pharmacy medicines, users, and orders.  
 Built with **Spring Boot**, **Next.js**, and **MySQL**.
 
 ---
 
-## 👥 Team Description
-**Developer:**  
-**Abdelrazzaq Mohammad Omar Asfour**  
-Full-Stack Developer (Java Spring Boot & Next.js)
 
----
 
 ## 📑 Table of Contents
 - [Overview](#overview)
