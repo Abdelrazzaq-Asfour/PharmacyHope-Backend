@@ -15,8 +15,7 @@ Full-Stack Developer (Java Spring Boot & Next.js)
 ## 📑 Table of Contents
 - [Overview](#overview)
 - [Tech Stack](#tech-stack)
-- [Data Model (ERD)](#data-model-erd)
-- [Installation & Setup](#installation--setup)
+- [Data Model ]
 - [Features](#features)
 - [User Stories](#user-stories)
 
